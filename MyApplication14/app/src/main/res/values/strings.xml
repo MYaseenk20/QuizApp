@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="page_title">Quizzed</string>
+    <string name="title_activity_option">OptionActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="fab_content_desc">date picker</string>
+    <string name="which_of_the_following_language_was_developed_as_the_first_purely_object_programming_language">Which of the following language was developed as the first purely object programming language?</string>
+</resources>
